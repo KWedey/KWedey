@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm currently learning the basics of GitHub and coding. I'm not a software developer by trade, but I'm seeing what I can pickup along the way 🙂
 <!--
 **KWedey/KWedey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
