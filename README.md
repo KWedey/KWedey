@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 I'm currently learning the basics of GitHub and coding. I'm not a software developer by trade, but I'm seeing what I can pickup along the way 🙂
+---
+Currently working through the GitHub skills courses. I think I'm getting the hang of working in GitHub, but I still don't understand how the code element interacts with GitHub as a platform. TBD.... 
 <!--
 **KWedey/KWedey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
