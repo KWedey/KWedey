@@ -14,8 +14,7 @@ Most of my work lives in private org repos, so the short version:
 | [wanderblade](https://github.com/KWedey/wanderblade) | Idle RPG on a pure, deterministic TypeScript engine; CI fails any change that knocks the seeded economy simulator out of balance |
 | [podcast-dl](https://github.com/KWedey/podcast-dl) | TypeScript CLI that archives podcast episodes from RSS feeds: atomic state writes, streamed downloads, automatic retries |
 | [worn-zmk](https://github.com/KWedey/worn-zmk) | Layout for my 50-key split keyboard, with an [interactive keymap](https://kwedey.github.io/worn-zmk/keymap.html) |
-
-Also building: a D&D character-builder web app, four years in the making.
+| [TTRPG Stats](https://gitlab.com/local-projects4043846/dnd_website) (GitLab) | D&D character builder I co-build with Trevor Von Seggern (React, Vite, TanStack Query). I wrote most of its test suite, the monster-stat heatmaps, and the inventory and filter UI |
 
 **Toolbox:** Playwright · TypeScript · Python · Claude Code · Codex · GitHub Actions · Datadog · Postman
 
